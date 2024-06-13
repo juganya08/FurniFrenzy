@@ -1,0 +1,29 @@
+p {
+    text-decoration: none !important;
+}
+ a {
+    text-decoration: none !important;
+ }
+.footer-bg{
+   background-color:  #7C3030 !important;
+   /* lor: #7C3030;
+--secondary-color: #A95C68;
+--third-color: #f98169;; */
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.footer-txt {
+    color: #f8e6e9;
+}
+ 
+.alignleft {
+	float: left;
+    margin-top: -10px;
+    color: #f8e6e9;
+}
+.alignright {
+	float: right;
+    margin-top: -10px;
+    color: #f8e6e9;
+}
